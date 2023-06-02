@@ -11,7 +11,7 @@ This dataset is used to train CNN model to detect malicious document with formul
 312 malicious Equation Ole Objects comes from Virustotal directly
 * 05-test_oleEqnMPurify  
 312 adversarial sample comes from 04-test_oleEqnM by erasing malicious commands in the object
-* 06-test_oleEqnMCloak 
+* 06-test_oleEqnMCloak  
 312 adversarial sample comes from 04-test_oleEqnM by adding formula elements in the object 
 * 07-test_oleEqnB_matrix  
 614 benign Equation Ole Objects comes from Internet, many of them are matrix
